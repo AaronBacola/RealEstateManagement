@@ -9,3 +9,7 @@ The project is a **Real Estate Management System** built in C++. It has a simple
 - Add, Remove, Modify property abilities for those registered as "Agent"
 - Reserve and View Reserved Properties for those registered as "Customer"
 - View and Search properties for all users
+
+**How to Run**
+- Download and extract zip file
+- Run Real Estate Management System.exe
